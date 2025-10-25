@@ -3,8 +3,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 
-**Roll No:** 23f2001207  
-**GitHub:** [@23f2001207](https://github.com/23f2001207)
 
 ***
 
@@ -194,9 +192,8 @@ Made with 💻 and ☕ by **Aryan Naresh Dayalani**
 ## 📬 Contact
 
 For questions about this implementation:  
-**Author:** Aryan Naresh Dayalani  
-**Roll No:** 23f2001207  
-**GitHub:** [@23f2001207](https://github.com/23f2001207)
+**Author:** Lucky Gupta
+**GitHub:** https://github.com/LuckyGupta1712
 
 ***
 
