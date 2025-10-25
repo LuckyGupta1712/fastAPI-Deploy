@@ -185,7 +185,7 @@ If you found this project useful or learned something from it, please give it a 
 ### ❤ Thank You for Visiting!
 
 Keep coding, keep deploying, and keep learning!  
-Made with 💻 and ☕ by **Aryan Naresh Dayalani**
+Made with 💻 and ☕ by **Lucky Gupta**
 
 ***
 
